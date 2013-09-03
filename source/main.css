@@ -1,0 +1,31 @@
+h3 a[href*="https://www.gov.uk/"],
+a.fl[href*="https://www.gov.uk/"] {
+    background: yellow;
+}
+
+h3 a[href*="https://www.gov.uk/browse/"],
+a.fl[href*="https://www.gov.uk/browse/"] {
+    background: lightblue;
+}
+
+h3 a[href*="https://www.gov.uk/government/"],
+a.fl[href*="https://www.gov.uk/government/"] {
+    background: lightgreen;
+}
+
+h3 a[href*="https://www.gov.uk/government/uploads/"],
+a.fl[href*="https://www.gov.uk/government/uploads/"] {
+    background: lightgrey;
+}
+
+h3 a[href*=".businesslink.gov.uk"] {
+    background: darkseagreen;
+}
+
+h3 a[href*=".direct.gov.uk"] {
+    background: orange;
+}
+
+h3 a[href*="http://webarchive.nationalarchives.gov.uk/"] {
+    background: pink;
+}

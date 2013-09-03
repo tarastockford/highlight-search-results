@@ -1,0 +1,15 @@
+{ 
+"name": "Highlight GOV.UK in search results", 
+"description": "Highlight search results from GOV.UK in different colours by site section.", 
+"version": "1.1",
+"update_url": "https://github.com/tarastockford/highlight-search-results/updates.xml",
+"manifest_version": 2,
+"permissions": [ "http://*/*", "https://*/*" ], 
+"icons": {  "48": "icon48.png",
+            "128": "icon128.png" },
+"content_scripts": [ { 
+    "css": [ "main.css" ], 
+    "matches": [ "http://www.google.co.uk/*", "https://www.google.co.uk/*", "http://www.bing.com/*" ],
+    "all_frames": true
+} ]
+}
