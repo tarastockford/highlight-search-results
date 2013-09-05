@@ -22,9 +22,9 @@ It also highlights some related URLs to help with the transition to the GOV.UK s
 You have to install this extension manually because it's not hosted on the official Google Chrome web store.
 
 - Download [highlight-search-results.crx](https://github.com/tarastockford/highlight-search-results/raw/master/highlight-search-results.crx).
-- Click 'Continue' on the security warning, and don't worry about the message saying 'Apps, extensions, and user scripts cannot be added from this website'.
+- Click 'Continue' if you see a security warning, and don't worry about the message saying 'Apps, extensions and user scripts cannot be added from this website'.
 - Show the downloaded file in the Finder or Windows Explorer.
-- Go to your Google Chrome [Settings > Extensions](chrome://extensions).
+- Go to your Google Chrome Settings > Extensions.
 - Drag the highlight-search-results.crx file from the Finder/Explorer window and drop it on to the Extensions window.
 - Click 'Add' to confirm that you want to install it.
 - You should see a message saying 'Highlight GOV.UK in search results has been added to Chrome'.
